@@ -45,11 +45,8 @@ project_root/
 
 └── main.py
 
-markdown
-Copy code
-
 - **`scraper/`**: Contains the web scraper module.
-  - **`e_commerce_scraper.py`**: Implements the ECommerceScraper class for scraping product data.
+  - **`e_commerce_scraper.py`**: Implements the ecommerce scrapper class for scraping product data.
 
 - **`main.py`**: Example script demonstrating how to use the scraper.
 
