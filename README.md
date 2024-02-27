@@ -32,11 +32,17 @@ This is a python implementation of a web scrapper that extracts product details 
 ## Project Structure
 
 project_root/
+
 │
+
 ├── scraper/
+
 │ ├── init.py
+
 │ ├── e_commerce_scraper.py
+
 │
+
 └── main.py
 
 markdown
